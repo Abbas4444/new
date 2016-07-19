@@ -35,7 +35,7 @@
   				
   			</div><!-- Navbar Header-->
   			
-  			<div class="collapse navbar-collapse" id="navbar-collapse">
+  			<div>
   				
   			<a href="" class="btn btn-warning navbar-btn navbar-right">Download Now</a>
   				<ul class="nav navbar-default">
