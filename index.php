@@ -29,7 +29,7 @@
   			</div><!-- Navbar Header-->
   			
   				
-  			<a href="" class="btn btn-warning navbar-btn navbar-right">Download Now</a>
+  		<!--	<a href="" class="btn btn-warning navbar-btn navbar-right">Download Now</a>-->
   				<ul class="nav navbar-nav">
   					<li><a href="#feedback">Feedback</a> 
   					<li><a href="#gallery">Gallery</a> 
