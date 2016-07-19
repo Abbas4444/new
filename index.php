@@ -39,7 +39,7 @@
   				<ul class="nav navbar-nav">
   					<li><a href="#feedback">Feedback</a> 
   					<li><a href="#gallery">Gallery</a> 
-  					<li><a href="#features">Features</a> 
+  					<li><a href="#aboutauthor">About Author</a> 
   					<li><a href="#faq">Faq</a> 
   					<li><a href="#contact">ContactUs</a> 
   				</ul>
@@ -56,8 +56,6 @@
 
   			<div class="btn-group">
   				<a href="" class="btn btn-lg btn-warning">London</a>
-  				<a href="" class="btn btn-lg btn-default">Paris</a>
-  				<a href="" class="btn btn-lg btn-info">Tokyo</a>
   			</div>
   		</div><!-- End container -->
   	</div><!-- End jumbotron-->
@@ -72,20 +70,20 @@
   			<div class="row">
   				<div class="col-md-4">
   					<blockquote>
-  						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi gravida quam ac ante rutrum, in mollis ligula mattis. Integer nulla nisi, ullamcorper et posuere vel</p>
-  						<footer>John doe</footer>
+  						<p>Your travel diaries roxxx.Exicted where you will go next</p>
+  						<footer>Rakesh</footer>
   					</blockquote>
   				</div>
   				<div class="col-md-4">
   					<blockquote>
-  						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi gravida quam ac ante rutrum, in mollis ligula mattis. Integer nulla nisi, ullamcorper et posuere vel</p>
-  						<footer>John doe</footer>
+  						<p>I'm a really big follower of your diaries.Love the pictures you upload</p>
+  						<footer>Ketan</footer>
   					</blockquote>
   				</div>
   				<div class="col-md-4">
   					<blockquote>
-  						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi gravida quam ac ante rutrum, in mollis ligula mattis. Integer nulla nisi, ullamcorper et posuere vel</p>
-  						<footer>John doe</footer>
+  						<p>onw of the most awesome travelling destination you just went.I envy you</p>
+  						<footer>Deepak</footer>
   					</blockquote>
   				</div>
   			</div><!-- End row -->
@@ -122,7 +120,7 @@
 	<div class="container">
 		<section>
 			<div class="page-header" id="gallery">
-  				<h2>Gallery.<small> Check out the Awesome Travel Gallery By Travellers Across World</small></h2>
+  				<h2>Gallery.<small> Check out the Awesome Travel Pictures Which We Took When We Visited London</small></h2>
   			</div>
 
   			<div class="carousel slide" id="screenshot-carousel" data-ride="carousel">
@@ -174,41 +172,23 @@
 		</section>
 	</div>
 
-<!-- features -->
+<!-- About author -->
 	<div class="container">
 		<section>
-			<div class="page-header" id="features">
-  				<h2>Features.<small> Some of the coolest Features of this app.</small></h2>
+			<div class="page-header" id="aboutauthor">
+  				<h2>About Author.<small> Know the person himself.</small></h2>
   			</div><!-- End Page Header -->
 
   			<div class="row">
   				<div class="col-sm-8">
-  					<h3>This is the heading</h3>
-  					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mauris tortor, eleifend sit amet fringilla ac, tincidunt id massa. Proin et odio mattis, venenatis lacus vel, faucibus elit</p>
+  					<h3>Travel Diaries by Abbas Lakdawala</h3>
+  					<p>is Doing MCA(Science) From MIT college Pune,Is a Developer and coder,Loves to Travel and has soft spot for bikes and Cars.He loves to chases his dreams.</p>
   				</div>
   				<div class="col-sm-4">
-  					<img src="imac.jpg" class="img-responsive" alt="image">
+  					<img src="xyz.jpg" class="img-responsive" alt="image">
   				</div>
   			</div><!-- End row -->
-  			<div class="row">
-  				<div class="col-sm-8">
-  					<h3>This is the heading</h3>
-  					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mauris tortor, eleifend sit amet fringilla ac, tincidunt id massa. Proin et odio mattis, venenatis lacus vel, faucibus elit</p>
-  				</div>
-  				<div class="col-sm-4">
-  					<img src="smartphone.jpg" class="img-responsive" alt="image">
-  				</div>
-  			</div>
-  			<div class="row">
-  				<div class="col-sm-8">
-  					<h3>This is the heading</h3>
-  					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mauris tortor, eleifend sit amet fringilla ac, tincidunt id massa. Proin et odio mattis, venenatis lacus vel, faucibus elit</p>
-  				</div>
-  				<div class="col-sm-4">
-  					<img src="user.jpg" class="img-responsive" alt="image">
-  				</div>
-  			</div>
-
+  			
   			<hr>
 
   			<div class="row">
@@ -216,8 +196,8 @@
   					<div class="panel panel-default text-center">
   						<div class="panel-body">
   							<span class="glyphicon glyphicon-ok"></span>
-  							<h4>This is the Heading</h4>
-  							<p>Nam velit est, tempor vel posuere et, auctor a lectus. Aenean gravida, est accumsan dictum rhoncus, lectus mi suscipit lacus, suscipit accumsan augue tellus vitae dolor. Morbi in euismod dui</p>
+  							<h4>London Eye</h4>
+  							<p>The London Eye is a giant Ferris wheel on the South Bank of the River Thames in London.Also known as the Millennium Wheel, it has also been called by its owners the British Airways London Eye, then the Merlin Entertainments London Eye, then the EDF Energy London Eye. Since mid-January 2015, it has been known as the Coca-Cola London Eye</p>
   						</div>
   					</div>
   				</div>
@@ -226,8 +206,8 @@
   					<div class="panel panel-default text-center">
   						<div class="panel-body">
   							<span class="glyphicon glyphicon-star"></span>
-  							<h4>This is the Heading</h4>
-  							<p>Nam velit est, tempor vel posuere et, auctor a lectus. Aenean gravida, est accumsan dictum rhoncus, lectus mi suscipit lacus, suscipit accumsan augue tellus vitae dolor. Morbi in euismod dui</p>
+  							<h4>Tower Bridge</h4>
+  							<p>Tower Bridge is a combined bascule and suspension bridge in London built in 1886-1894.The bridge crosses the River Thames close to the Tower of London and has become an iconic symbol of London.Tower Bridge is one of five London bridges now owned and maintained by the Bridge House Estates, a charitable trust overseen by the City of London Corporation.</p>
   						</div>
   					</div>
   				</div>
@@ -236,8 +216,8 @@
   					<div class="panel panel-default text-center">
   						<div class="panel-body">
   							<span class="glyphicon glyphicon-play-circle"></span>
-  							<h4>This is the Heading</h4>
-  							<p>Nam velit est, tempor vel posuere et, auctor a lectus. Aenean gravida, est accumsan dictum rhoncus, lectus mi suscipit lacus, suscipit accumsan augue tellus vitae dolor. Morbi in euismod dui</p>
+  							<h4>Buckingham Palace</h4>
+  							<p>Buckingham Palace is the London residence and administrative headquarters of the reigning monarch of the United Kingdom.Located in the City of Westminster, the palace is often at the centre of state occasions and royal hospitality.It has been a focal point for the British people at times of national rejoicing and mourning.</p>
   						</div>
   					</div>
   				</div>
@@ -251,7 +231,7 @@
     <div class="container">
       <section>
         <div class="page-header" id="faq">
-          <h2>FAQ.<small> Engaging with consumers.</small></h2>
+          <h2>FAQ.<small> Engaging with Followers.</small></h2>
         </div><!-- End Page Header -->
 
         <div class="panel-group" id="accordion">
@@ -264,7 +244,7 @@
               </div><!-- End panel title -->
               <div id="collapse-1" class="panel-collapse collapse in">
                 <div class="panel-body">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas non urna in fringilla. Praesent consequat est at feugiat faucibus
+                  What is the best month to visit London????
                 </div>
               </div><!-- End Panel collapse -->
             </div>
@@ -279,7 +259,7 @@
               </div><!-- End panel title -->
               <div id="collapse-2" class="panel-collapse collapse">
                 <div class="panel-body">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas non urna in fringilla. Praesent consequat est at feugiat faucibus
+                  What are the best places to visit in London????
                 </div>
               </div><!-- End Panel collapse -->
             </div>
@@ -294,7 +274,7 @@
               </div><!-- End panel title -->
               <div id="collapse-3" class="panel-collapse collapse">
                 <div class="panel-body">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas non urna in fringilla. Praesent consequat est at feugiat faucibus
+                  Which is the best hotel to stay in London????
                 </div>
               </div><!-- End Panel collapse -->
             </div>
@@ -319,11 +299,11 @@
 
 
             <address>
-              <strong>Experdo Pvt Ltd.</strong></br>
-              111, Malviya nagar </br>
-              Plot no. 45</br>
-              New delhi - 110017</br>
-              P: +91 9999999999
+              <strong>Travel Diaries Pvt Ltd.</strong></br>
+              6-601,Ved vihar Society </br>
+              Kothrud</br>
+              Pune - 411038</br>
+              P: +91 9403067368
             </address>
           </div>
           
