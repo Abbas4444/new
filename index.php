@@ -22,6 +22,7 @@
 
   <!-- Navbar -->
   	<nav class="navbar navbar-default">
+  		<a href="" class="navbar-header">Travel Diaries</a>
   		<div class="container">
   			<div class="navbar-header">
   				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
@@ -33,7 +34,7 @@
 
   				
   			</div><!-- Navbar Header-->
-  			<a href="" class="navbar-header">Travel Diaries</a>
+  			
   			<div class="collapse navbar-collapse" id="navbar-collapse">
   				
   			<a href="" class="btn btn-warning navbar-btn navbar-right">Download Now</a>
