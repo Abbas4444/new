@@ -31,8 +31,9 @@
   					<span class="icon-bar"></span>
   				</button>
 
-  				<a href="" class="navbar-header">Travel Diaries</a>
+  				
   			</div><!-- Navbar Header-->
+  			<a href="" class="navbar-header">Travel Diaries</a>
   			<div class="collapse navbar-collapse" id="navbar-collapse">
   				
   			<a href="" class="btn btn-warning navbar-btn navbar-right">Download Now</a>
