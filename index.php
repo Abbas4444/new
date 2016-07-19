@@ -25,11 +25,9 @@
   	
   		<div class="container">
   			<div class="navbar-header">
-  				
-  					<a href="" class="navbar-header">Travel Diaries</a>
+  				<a href="" class="navbar-header">Travel Diaries</a>
   			</div><!-- Navbar Header-->
   			
-  			<div>
   				
   			<a href="" class="btn btn-warning navbar-btn navbar-right">Download Now</a>
   				<ul class="nav navbar-default">
@@ -39,7 +37,7 @@
   					<li><a href="#faq">Faq</a> 
   					<li><a href="#contact">ContactUs</a> 
   				</ul>
-  			</div>
+  			
   		</div><!-- End Container-->
   	</nav><!-- End navbar -->
 
