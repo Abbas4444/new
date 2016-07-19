@@ -31,7 +31,7 @@
   					<span class="icon-bar"></span>
   				</button>
 
-  				<a href="" class="navbar-brand">Travel Diaries</a>
+  				<a href="" class="navbar-header">Travel Diaries</a>
   			</div><!-- Navbar Header-->
   			<div class="collapse navbar-collapse" id="navbar-collapse">
   				
