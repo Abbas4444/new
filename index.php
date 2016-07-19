@@ -25,12 +25,12 @@
   	
   		<div class="container">
   			<div class="navbar-header">
-  				<a href="" class="navbar-header">Travel Diaries</a>
+  				<a href="" class="navbar-brand">Travel Diaries</a>
   			</div><!-- Navbar Header-->
   			
   				
   			<a href="" class="btn btn-warning navbar-btn navbar-right">Download Now</a>
-  				<ul class="nav navbar-default">
+  				<ul class="nav navbar-nav">
   					<li><a href="#feedback">Feedback</a> 
   					<li><a href="#gallery">Gallery</a> 
   					<li><a href="#aboutauthor">About Author</a> 
